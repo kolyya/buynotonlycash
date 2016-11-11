@@ -14,7 +14,7 @@ public Plugin myinfo =
 	url = "https://github.com/kolyya/buynotonlycash"
 };
 
-ArrayList g_ItemList = null;                // id покупаемого оружия
+ArrayList g_ItemList = null;                	// id покупаемого оружия
 new const String:items[][] = 
 {
     // Grenades
