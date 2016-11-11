@@ -3,9 +3,9 @@
 ##Описание
 Плагин позволяет устанавливать в качестве цены за оружие и предметы не только деньги, но и здоровье игрока, его скорость, «ранить» его при покупке (у игрока будет отниматься определенное количество здоровья через определенный промежуток времени). А может и наоборот давать денег, здоровья и т.д. при покупке.
 ##Установка
-1. Скопируйте файл .cfg
-2. 
-3.
+1.	Скопируйте файл [`buynotonlycash_items.cfg`](buynotonlycash_items.cfg) в папку `\addons\sourcemod\configs`
+2.	Скопируйте файл [`buynotonlycash.phrases.txt`](buynotonlycash.phrases.txt) в папку `\addons\sourcemod\translations`
+3.	Скопируйте файл [`buynotonlycash.smx`](buynotonlycash.smx) в папку `\addons\sourcemod\plugins`
 
 ##Настройки (Cvars)
 **csgo_bnoc_allow_not_list** *(Разрешить покупать предметы не из списка “1” – да, “0” – нет, по умолчанию “1”)*
